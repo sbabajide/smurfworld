@@ -1,0 +1,2 @@
+c:\users\boxer\documents\visual studio 2010\Projects\smurfworld\smurfworld\smurfworldContent\obj\x86\Debug\smurfworldContent.contentprojResolveAssemblyReference.cache
+c:\users\boxer\documents\visual studio 2010\Projects\smurfworld\smurfworld\smurfworldContent\obj\x86\Debug\audio\soundProj.xml
